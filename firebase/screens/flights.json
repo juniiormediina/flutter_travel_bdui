@@ -1,0 +1,20 @@
+{
+  "screenId": "flights",
+  "version": "1.0",
+  "title": "Flights",
+  "sections": [
+    {
+      "id": "search",
+      "components": [
+        {
+          "id": "flight-search",
+          "type": "flight_search",
+          "props": {
+            "originPlaceholder": "From",
+            "destinationPlaceholder": "To"
+          }
+        }
+      ]
+    }
+  ]
+}
