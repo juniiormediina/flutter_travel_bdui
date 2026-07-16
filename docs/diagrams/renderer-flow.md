@@ -2,7 +2,7 @@
 
 This diagram represents the high-level architecture of the BDUI proof of concept.
 
-<img width="3841" height="2268" alt="image" src="https://github.com/user-attachments/assets/edb11999-bed2-478a-8dbd-8e9aaa79f6fd" />
+<img width="791" height="2268" alt="image" src="https://github.com/user-attachments/assets/4d2b844f-d29f-4a4b-9229-6ccfc067ae4e" />
 
 Firebase is responsible for delivering UI contracts.
 
