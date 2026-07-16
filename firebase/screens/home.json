@@ -1,0 +1,35 @@
+{
+  "screenId": "home",
+  "version": "1.0",
+  "title": "Travel Home",
+  "sections": [
+    {
+      "id": "hero",
+      "components": [
+        {
+          "id": "banner-1",
+          "type": "banner",
+          "props": {
+            "title": "Discover Europe",
+            "subtitle": "Summer Deals",
+            "imageUrl": "https://via.placeholder.com/1200x500"
+          }
+        }
+      ]
+    },
+    {
+      "id": "offers",
+      "components": [
+        {
+          "id": "offer-1",
+          "type": "offer_card",
+          "props": {
+            "title": "Bogotá → Madrid",
+            "price": 699,
+            "currency": "USD"
+          }
+        }
+      ]
+    }
+  ]
+}
