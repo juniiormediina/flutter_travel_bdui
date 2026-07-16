@@ -1,0 +1,30 @@
+{
+  "screenId": "offers",
+  "version": "1.0",
+  "title": "Special Offers",
+  "sections": [
+    {
+      "id": "offers-list",
+      "components": [
+        {
+          "id": "offer-1",
+          "type": "offer_card",
+          "props": {
+            "title": "Cartagena Getaway",
+            "price": 249,
+            "currency": "USD"
+          }
+        },
+        {
+          "id": "offer-2",
+          "type": "offer_card",
+          "props": {
+            "title": "Cancún Escape",
+            "price": 399,
+            "currency": "USD"
+          }
+        }
+      ]
+    }
+  ]
+}
