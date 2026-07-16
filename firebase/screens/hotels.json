@@ -1,0 +1,20 @@
+{
+  "screenId": "hotels",
+  "version": "1.0",
+  "title": "Hotels",
+  "sections": [
+    {
+      "id": "featured-hotels",
+      "components": [
+        {
+          "id": "hotel-banner",
+          "type": "banner",
+          "props": {
+            "title": "Book your next stay",
+            "subtitle": "Top rated hotels"
+          }
+        }
+      ]
+    }
+  ]
+}
